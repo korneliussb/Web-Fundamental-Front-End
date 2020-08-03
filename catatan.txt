@@ -1,0 +1,16 @@
+Variable declaration
+https://repl.it/@dicodingacademy/163-02-variable-declaration?lite=true
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/102-club-finder-variable-declaration-solution
+
+https://repl.it/@dicodingacademy/163-02-template-literals?lite-true
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/103-club-finder-template-literals-solution
+
+https://repl.it/@korneliussb/163-02-destructuring-array-1#index.js
+https://repl.it/@korneliussb/163-02-destructuring-object
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/104-club-finder-destructuring-object-solution
+
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/105-club-finder-arrow-function-solution
