@@ -16,15 +16,16 @@ const main = () => {
                 fanArt,
                 description
             } = club;
-
             const clubElement = document.createElement("div");
             clubElement.setAttribute("class", "club");
 
-            clubElement.innerHTML = `<img class="fan-art-club" src="${fanArt}" alt="Fan Art">
-                <div class="club-info">
-                <h2>${name}</h2>
-                <p>${description}</p>
-            </div>`;
+            clubElement.innerHTML = `
+               <img class="fan-art-club" src="${fanArt}" alt="Fan Art">
+               <div class="club-info">
+                   <h2>${name}</h2>
+                   <p>${description}</p>
+               </div>`;
+
             clubListElement.appendChild(clubElement);
         })
     };
