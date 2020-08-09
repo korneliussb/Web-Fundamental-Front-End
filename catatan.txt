@@ -19,3 +19,11 @@ https://github.com/dicodingacademy/a163-bfwd-labs/tree/105-club-finder-arrow-fun
 https://repl.it/@korneliussb/163-02-class
 
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/106-club-finder-class-solution
+
+https://repl.it/@korneliussb/163-02-promise
+
+https://repl.it/@korneliussb/163-02-chaining-promise
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/107-club-finder-promise-solution
