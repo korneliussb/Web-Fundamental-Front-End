@@ -27,3 +27,28 @@ https://repl.it/@korneliussb/163-02-chaining-promise
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
 
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/107-club-finder-promise-solution
+
+__
+Module
+Potongan kode dalam materi ini:
+
+Export dan Import dalam Node.js:
+https://repl.it/@dicodingacademy/163-02-export-import-nodejs?lite=true
+https://repl.it/@korneliussb/163-02-export-import-nodejs-1#index.js
+Export dan Import banyak Nilai dalam Node.js:
+https://repl.it/@dicodingacademy/163-02-multiple-export-nodejs?lite=true
+https://repl.it/@korneliussb/163-02-multiple-export-nodejs-1
+Export dan Import dalam ES6:
+https://repl.it/@dicodingacademy/163-02-exporting-importing-single-value-es6?lite=true
+https://repl.it/@korneliussb/163-02-exporting-importing-single-value-es6-1#index.html
+Export dan import banyak Nilai dalam ES6:
+https://repl.it/@dicodingacademy/163-02-exporting-importing-multiple-value-es6?lite=true
+https://repl.it/@korneliussb/163-02-exporting-importing-multiple-value-es6-1
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/108-club-finder-module-solution
+
+https://www.npmjs.com/package/http-server
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+https://code.visualstudio.com/docs/editor/extension-gallery
+buka dengan Live Server
