@@ -52,3 +52,16 @@ https://www.npmjs.com/package/http-server
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 https://code.visualstudio.com/docs/editor/extension-gallery
 buka dengan Live Server
+
+https://repl.it/@korneliussb/163-03-first-custom-element
+
+https://repl.it/@korneliussb/163-03-attribute-and-method
+
+https://repl.it/@korneliussb/163-03-attribute-observe
+
+https://repl.it/@korneliussb/163-03-handling-complex-data
+
+https://repl.it/@korneliussb/163-03-nested-custom-element
+
+https://repl.it/@korneliussb/163-03-custom-element
+
