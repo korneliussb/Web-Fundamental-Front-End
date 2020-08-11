@@ -65,3 +65,5 @@ https://repl.it/@korneliussb/163-03-nested-custom-element
 
 https://repl.it/@korneliussb/163-03-custom-element
 
+----
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/109-club-finder-custom-element-solution
