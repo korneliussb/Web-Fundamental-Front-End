@@ -67,3 +67,13 @@ https://repl.it/@korneliussb/163-03-custom-element
 
 ----
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/109-club-finder-custom-element-solution
+
+--
+https://www.google.com/url?q=https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM&sa=D&ust=1583841656284000
+
+-- shadom DOM
+https://repl.it/@korneliussb/163-03-shadow-dom-basic-usage
+
+https://repl.it/@korneliussb/163-03-shadow-dom-styling
+
+https://repl.it/@korneliussb/163-03-shadow-dom-in-web-component
