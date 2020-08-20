@@ -79,3 +79,15 @@ https://repl.it/@korneliussb/163-03-shadow-dom-styling
 https://repl.it/@korneliussb/163-03-shadow-dom-in-web-component
 
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/110-club-finder-shadow-dom-solution
+
+NPM ------------
+https://docs.npmjs.com/cli-documentation/cli
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/201-web-clock-initial-project
+
+npm init
+npm install jquery
+npm install moment
+npm install <package-name> 
+npm install <package-name> --save-dev
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/202-webclock-installing-package
