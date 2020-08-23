@@ -91,3 +91,9 @@ npm install moment
 npm install <package-name> 
 npm install <package-name> --save-dev
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/202-webclock-installing-package
+
+------------------
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+https://momentjs.com/guides/
+https://api.jquery.com/
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/203-webclock-using-installed-package
