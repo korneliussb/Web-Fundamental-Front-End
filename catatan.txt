@@ -109,3 +109,19 @@ npm install http-server -g
 npm list -g
 npm list -g --depth=0
 npm run start Lagi
+
+----------------
+https://nodejs.org/api/path.html
+https://webpack.js.org/configuration/output/
+npm install css-loader --save-dev
+https://webpack.js.org/loaders/
+
+npm install html-webpack-plugin --save-dev
+webpack --mode development
+https://webpack.js.org/configuration/mode/
+
+npm install webpack --save-dev
+npm install webpack-cli --save-dev
+npm install webpack webpack-cli --save-dev
+npm run build
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/205-webclock-installing-webpack
