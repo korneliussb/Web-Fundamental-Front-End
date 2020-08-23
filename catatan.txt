@@ -104,3 +104,8 @@ npm uninstall <package-name>
 npm uninstall <package-name> --save-dev
 npm uninstall http-server --save-dev
 alias npm uninstall -h
+-----------
+npm install http-server -g
+npm list -g
+npm list -g --depth=0
+npm run start Lagi
