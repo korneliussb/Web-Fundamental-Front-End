@@ -125,3 +125,4 @@ npm install webpack-cli --save-dev
 npm install webpack webpack-cli --save-dev
 npm run build
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/205-webclock-installing-webpack
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/206-webclock-webpack-configuration-files
