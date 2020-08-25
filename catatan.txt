@@ -155,4 +155,5 @@ npm run start-dev
 npm run build
 http-server ./dist
 npm install regenerator-runtime
+npm build
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/111-club-finder-webpack-solution
