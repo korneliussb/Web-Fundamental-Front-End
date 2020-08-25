@@ -146,3 +146,13 @@ https://github.com/dicodingacademy/a163-bfwd-labs/tree/209-webclock-webpack-dev-
 npm install webpack-merge --save-dev
 npm run start-dev
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/210-webclock-webpack-merge/WebClock
+
+----------------------
+Club finder
+npm init
+npm install @babel/core @babel/preset-env babel-loader css-loader html-loader html-webpack-plugin style-loader webpack webpack-cli webpack-dev-server webpack-merge --save-dev
+npm run start-dev
+npm run build
+http-server ./dist
+npm install regenerator-runtime
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/111-club-finder-webpack-solution
