@@ -133,3 +133,6 @@ npm run build
 https://babeljs.io/repl
 npm install @babel/core babel-loader @babel/preset-env --save-dev
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/207-webclock-webpack-using-loader
+
+npm install html-webpack-plugin --save-dev
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/208-webclock-webpack-using-plugin
