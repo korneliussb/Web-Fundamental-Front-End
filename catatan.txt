@@ -142,3 +142,7 @@ file:///C:/WebFundamentalFrontEnd/WebClock/dist/index.html
 npm install webpack-dev-server --save-dev
 npm run start-dev
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/209-webclock-webpack-dev-server
+
+npm install webpack-merge --save-dev
+npm run start-dev
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/210-webclock-webpack-merge/WebClock
