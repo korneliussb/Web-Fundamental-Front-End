@@ -166,3 +166,10 @@ https://www.guru99.com/postman-tutorial.html
 https://github.com/dicodingacademy/a163-bfwd-labs/raw/099-starter-proyek-files/DicodingBooks.zip
 npm install
 npm run start-dev
+
+--- XHR
+https://repl.it/@korneliussb/163-06-AJAX-XHR-basic
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send
+https://fetch.spec.whatwg.org/#bodyinit
+Method JSON.parse() digunakan untuk mengubah JSON dalam bentuk String menjadi objek JavaScript.
+method JSON.stringify() memiliki fungsi sebaliknya. Yaitu mengubah JavaScript objek dalam bentuk JSON string.
