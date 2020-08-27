@@ -157,3 +157,12 @@ http-server ./dist
 npm install regenerator-runtime
 npm build
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/111-club-finder-webpack-solution
+
+-------------------
+https://www.postman.com/
+https://web-server-book-dicoding.appspot.com/
+https://www.guru99.com/postman-tutorial.html
+
+https://github.com/dicodingacademy/a163-bfwd-labs/raw/099-starter-proyek-files/DicodingBooks.zip
+npm install
+npm run start-dev
