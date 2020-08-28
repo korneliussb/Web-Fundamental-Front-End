@@ -173,3 +173,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send
 https://fetch.spec.whatwg.org/#bodyinit
 Method JSON.parse() digunakan untuk mengubah JSON dalam bentuk String menjadi objek JavaScript.
 method JSON.stringify() memiliki fungsi sebaliknya. Yaitu mengubah JavaScript objek dalam bentuk JSON string.
+
+https://web-server-book-dicoding.appspot.com/
+
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/302-dicoding-books-xhr
