@@ -177,3 +177,7 @@ method JSON.stringify() memiliki fungsi sebaliknya. Yaitu mengubah JavaScript ob
 https://web-server-book-dicoding.appspot.com/
 
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/302-dicoding-books-xhr
+-----
+
+https://repl.it/@korneliussb/163-06-AJAX-Fetch-Basic
+https://repl.it/@korneliussb/163-06-AJAX-Fetch-Advanced
