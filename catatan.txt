@@ -182,3 +182,10 @@ https://github.com/dicodingacademy/a163-bfwd-labs/tree/302-dicoding-books-xhr
 https://repl.it/@korneliussb/163-06-AJAX-Fetch-Basic
 https://repl.it/@korneliussb/163-06-AJAX-Fetch-Advanced
 https://github.com/dicodingacademy/a163-bfwd-labs/tree/303-dicoding-books-fetch
+
+----
+ClubFinder
+https://www.thesportsdb.com/api.php
+https://www.thesportsdb.com/api/v1/json/1/searchteams.php?t=Barcelona
+npm run start-dev
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/112-club-finder-fetch-solution
