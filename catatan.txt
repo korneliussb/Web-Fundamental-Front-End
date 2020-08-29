@@ -181,3 +181,4 @@ https://github.com/dicodingacademy/a163-bfwd-labs/tree/302-dicoding-books-xhr
 
 https://repl.it/@korneliussb/163-06-AJAX-Fetch-Basic
 https://repl.it/@korneliussb/163-06-AJAX-Fetch-Advanced
+https://github.com/dicodingacademy/a163-bfwd-labs/tree/303-dicoding-books-fetch
